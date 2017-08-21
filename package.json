@@ -1,5 +1,5 @@
 {
-  "name": "testing-zipato",
+  "name": "zipato",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,6 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Espen Mjøs <espen.mjos@gmail.com>",
+  "repository" :
+  { "type" : "git"
+  , "url" : "https://github.com/espenmjos/zipato"
+  }
   "license": "ISC",
   "dependencies": {
     "request": "^2.81.0"
