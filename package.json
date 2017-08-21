@@ -10,7 +10,7 @@
   "repository" :
   { "type" : "git"
   , "url" : "https://github.com/espenmjos/zipato"
-  }
+  },
   "license": "ISC",
   "dependencies": {
     "request": "^2.81.0"
